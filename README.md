@@ -1,0 +1,4 @@
+JavaExercises
+=============
+
+JavaExercises (from training)
